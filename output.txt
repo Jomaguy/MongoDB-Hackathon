@@ -1,0 +1,2353 @@
+Total samples: 389
+
+View distribution:
+{'back_view': 253, 'side_view': 136}
+
+Quality distribution:
+{'bad_swings': 277, 'good_swings': 112}
+
+Subcategory distribution:
+{<Classification: {
+    'id': '67f1732cf7db3a39cf853c3e',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732bf7db3a39cf853c24',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853ea8',
+    'tags': [],
+    'label': 'good_putting',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ff7db3a39cf853c88',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c3c',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17327f7db3a39cf853bc8',
+    'tags': [],
+    'label': 'bad_iron_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c74',
+    'tags': [],
+    'label': 'good_ball_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853dee',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c6e',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853db4',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853cfc',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853ce0',
+    'tags': [],
+    'label': 'bad_far_from_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d8e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c10',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17332f7db3a39cf853c98',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853be8',
+    'tags': [],
+    'label': 'bad_ball_position_too_near',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cc4',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17339f7db3a39cf853cf6',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853cfe',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d54',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853da8',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17339f7db3a39cf853cfa',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e28',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17341f7db3a39cf853e80',
+    'tags': [],
+    'label': 'good_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853e96',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853bec',
+    'tags': [],
+    'label': 'bad_putting_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17336f7db3a39cf853cb8',
+    'tags': [],
+    'label': 'bad_sandpit_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cba',
+    'tags': [],
+    'label': 'bad_sandpit_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17322f7db3a39cf853ba6',
+    'tags': [],
+    'label': 'bad_iron_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e12',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e66',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17335f7db3a39cf853cac',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17338f7db3a39cf853cec',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c0e',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c4e',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dcc',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17334f7db3a39cf853caa',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853db2',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dda',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853db8',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c5c',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17333f7db3a39cf853c9c',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d6c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17327f7db3a39cf853bca',
+    'tags': [],
+    'label': 'bad_iron_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853df4',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853da4',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853ddc',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d9e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d1a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853df2',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e1a',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e5e',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e64',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853df6',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d98',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e40',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e50',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c06',
+    'tags': [],
+    'label': 'bad_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c6a',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d86',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853de0',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17323f7db3a39cf853bb0',
+    'tags': [],
+    'label': 'bad_iron_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d00',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e42',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e0e',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853db0',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d40',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c7a',
+    'tags': [],
+    'label': 'good_ball_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e4c',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e76',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d5c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d82',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17342f7db3a39cf853e8c',
+    'tags': [],
+    'label': 'good_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d18',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17329f7db3a39cf853bfc',
+    'tags': [],
+    'label': 'bad_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17333f7db3a39cf853ca0',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c58',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17326f7db3a39cf853bc4',
+    'tags': [],
+    'label': 'bad_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853df8',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e54',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17334f7db3a39cf853ca6',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d2a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17341f7db3a39cf853e82',
+    'tags': [],
+    'label': 'good_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c30',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17323f7db3a39cf853bae',
+    'tags': [],
+    'label': 'bad_iron_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17330f7db3a39cf853c8a',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d80',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e60',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c2c',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e74',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17324f7db3a39cf853bb4',
+    'tags': [],
+    'label': 'bad_putting_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17344f7db3a39cf853eaa',
+    'tags': [],
+    'label': 'good_putting',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d94',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c3a',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cc6',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d8c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853e9a',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dae',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c80',
+    'tags': [],
+    'label': 'good_chipping',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17333f7db3a39cf853ca2',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d22',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d78',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e4e',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17325f7db3a39cf853bbc',
+    'tags': [],
+    'label': 'bad_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d58',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d9a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e2a',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c02',
+    'tags': [],
+    'label': 'bad_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c70',
+    'tags': [],
+    'label': 'good_ball_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c32',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c7c',
+    'tags': [],
+    'label': 'good_ball_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732bf7db3a39cf853c22',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d26',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d7a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853bdc',
+    'tags': [],
+    'label': 'bad_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853da6',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dc0',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853de6',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17327f7db3a39cf853bd2',
+    'tags': [],
+    'label': 'bad_iron_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c78',
+    'tags': [],
+    'label': 'good_ball_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dd6',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d64',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e00',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e06',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dac',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e1e',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d68',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e4a',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e7c',
+    'tags': [],
+    'label': 'bad_putting_posture_hunched',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c46',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d48',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c82',
+    'tags': [],
+    'label': 'good_chipping',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853ce2',
+    'tags': [],
+    'label': 'bad_far_from_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853dfa',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c0a',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17336f7db3a39cf853cb6',
+    'tags': [],
+    'label': 'bad_sandpit_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17334f7db3a39cf853ca4',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c68',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dd4',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c4c',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17332f7db3a39cf853c94',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d34',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dbe',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17324f7db3a39cf853bb6',
+    'tags': [],
+    'label': 'bad_putting_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e68',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d44',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e6e',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e70',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d46',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17327f7db3a39cf853bce',
+    'tags': [],
+    'label': 'bad_iron_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c62',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c56',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17323f7db3a39cf853baa',
+    'tags': [],
+    'label': 'bad_iron_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732bf7db3a39cf853c26',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d5e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853bee',
+    'tags': [],
+    'label': 'bad_putting_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853ce8',
+    'tags': [],
+    'label': 'bad_far_from_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17338f7db3a39cf853cf2',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853df0',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853dfe',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d52',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e10',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e2e',
+    'tags': [],
+    'label': 'bad_near_to_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853db6',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17329f7db3a39cf853bfe',
+    'tags': [],
+    'label': 'bad_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cbe',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17323f7db3a39cf853bac',
+    'tags': [],
+    'label': 'bad_iron_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e3a',
+    'tags': [],
+    'label': 'bad_putting_posture_straight',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e56',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e02',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d0c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c54',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732bf7db3a39cf853c1a',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17339f7db3a39cf853cf8',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d6a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17324f7db3a39cf853bb8',
+    'tags': [],
+    'label': 'bad_putting_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d56',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c16',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c6c',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d3c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17329f7db3a39cf853bfa',
+    'tags': [],
+    'label': 'bad_chip_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c2e',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17326f7db3a39cf853bc0',
+    'tags': [],
+    'label': 'bad_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c7e',
+    'tags': [],
+    'label': 'good_chipping',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17339f7db3a39cf853cf4',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c44',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d06',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d74',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e5a',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853dfc',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853bda',
+    'tags': [],
+    'label': 'bad_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d90',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853dea',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e72',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17341f7db3a39cf853e86',
+    'tags': [],
+    'label': 'good_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d0a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d20',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17342f7db3a39cf853e88',
+    'tags': [],
+    'label': 'good_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853bde',
+    'tags': [],
+    'label': 'bad_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d2c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d9c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17329f7db3a39cf853c00',
+    'tags': [],
+    'label': 'bad_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c42',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c50',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e20',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cd4',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dd2',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e3e',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e6c',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732bf7db3a39cf853c1c',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853be0',
+    'tags': [],
+    'label': 'bad_chip_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17336f7db3a39cf853cb4',
+    'tags': [],
+    'label': 'good_putting',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17336f7db3a39cf853cb2',
+    'tags': [],
+    'label': 'good_putting',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d2e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d62',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e3c',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c72',
+    'tags': [],
+    'label': 'good_ball_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c12',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17327f7db3a39cf853bd4',
+    'tags': [],
+    'label': 'bad_iron_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d10',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e24',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d8a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c04',
+    'tags': [],
+    'label': 'bad_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d72',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d6e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c5e',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dc6',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cca',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853ccc',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d08',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dde',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c40',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cce',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d1e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e16',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853de8',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cc8',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d50',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c14',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17327f7db3a39cf853bd0',
+    'tags': [],
+    'label': 'bad_iron_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c66',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17331f7db3a39cf853c92',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c2a',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c34',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cd0',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d12',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d24',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dc8',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17326f7db3a39cf853bc6',
+    'tags': [],
+    'label': 'bad_iron_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dd0',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e26',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e2c',
+    'tags': [],
+    'label': 'bad_near_to_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e32',
+    'tags': [],
+    'label': 'bad_near_to_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e44',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e5c',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cdc',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d88',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17341f7db3a39cf853e84',
+    'tags': [],
+    'label': 'good_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853e90',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853de4',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e7e',
+    'tags': [],
+    'label': 'good_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853ea2',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c84',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cd6',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853dec',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853ea0',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d02',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d30',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17344f7db3a39cf853eae',
+    'tags': [],
+    'label': 'good_putting',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17329f7db3a39cf853bf8',
+    'tags': [],
+    'label': 'bad_chip_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853e9e',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d5a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853e94',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e08',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17327f7db3a39cf853bcc',
+    'tags': [],
+    'label': 'bad_iron_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732bf7db3a39cf853c1e',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853bea',
+    'tags': [],
+    'label': 'bad_putting_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c5a',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853de2',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17323f7db3a39cf853ba8',
+    'tags': [],
+    'label': 'bad_iron_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853bd8',
+    'tags': [],
+    'label': 'bad_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cc2',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e30',
+    'tags': [],
+    'label': 'bad_near_to_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732bf7db3a39cf853c28',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cd2',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853ea4',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cd8',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e46',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c52',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c36',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c08',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853da2',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d3e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17329f7db3a39cf853bf6',
+    'tags': [],
+    'label': 'bad_ball_position_too_far',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e52',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17330f7db3a39cf853c8c',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d70',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853be4',
+    'tags': [],
+    'label': 'bad_chip_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17330f7db3a39cf853c8e',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c0c',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dc2',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732bf7db3a39cf853c20',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d42',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d92',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c60',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e36',
+    'tags': [],
+    'label': 'bad_near_to_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e7a',
+    'tags': [],
+    'label': 'bad_putting_posture_hunched',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e58',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17323f7db3a39cf853bb2',
+    'tags': [],
+    'label': 'bad_putting_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d36',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dba',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e0c',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17344f7db3a39cf853eac',
+    'tags': [],
+    'label': 'good_putting',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853daa',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17329f7db3a39cf853bf2',
+    'tags': [],
+    'label': 'bad_putting_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732cf7db3a39cf853c38',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853da0',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e34',
+    'tags': [],
+    'label': 'bad_near_to_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e14',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d16',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17331f7db3a39cf853c90',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ef7db3a39cf853c76',
+    'tags': [],
+    'label': 'good_ball_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d96',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853e92',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17332f7db3a39cf853c96',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17329f7db3a39cf853bf0',
+    'tags': [],
+    'label': 'bad_putting_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cda',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cea',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e38',
+    'tags': [],
+    'label': 'bad_putting_posture_straight',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853be2',
+    'tags': [],
+    'label': 'bad_chip_wide_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17342f7db3a39cf853e8e',
+    'tags': [],
+    'label': 'good_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e6a',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17328f7db3a39cf853be6',
+    'tags': [],
+    'label': 'bad_ball_position_too_near',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c64',
+    'tags': [],
+    'label': 'good_elbow_posture_frontswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e04',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853e98',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d66',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d76',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ff7db3a39cf853e48',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17334f7db3a39cf853ca8',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17338f7db3a39cf853cf0',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732ff7db3a39cf853c86',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c48',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17325f7db3a39cf853bbe',
+    'tags': [],
+    'label': 'bad_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e0a',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e1c',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17332f7db3a39cf853c9a',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e78',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d1c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cde',
+    'tags': [],
+    'label': 'bad_far_from_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732df7db3a39cf853c4a',
+    'tags': [],
+    'label': 'good_elbow_posture_backswing',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dce',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cbc',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1732af7db3a39cf853c18',
+    'tags': [],
+    'label': 'good_side_iron',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d0e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17342f7db3a39cf853e8a',
+    'tags': [],
+    'label': 'good_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d3a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853ea6',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17336f7db3a39cf853cae',
+    'tags': [],
+    'label': 'good_putting',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d4a',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17333f7db3a39cf853c9e',
+    'tags': [],
+    'label': 'good_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17338f7db3a39cf853cee',
+    'tags': [],
+    'label': 'bad_knee_posture',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d7c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e22',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17340f7db3a39cf853e62',
+    'tags': [],
+    'label': 'bad_driver_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17327f7db3a39cf853bd6',
+    'tags': [],
+    'label': 'bad_iron_narrow_stance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853ce6',
+    'tags': [],
+    'label': 'bad_far_from_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dca',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dd8',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d04',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853ce4',
+    'tags': [],
+    'label': 'bad_far_from_ball',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17329f7db3a39cf853bf4',
+    'tags': [],
+    'label': 'bad_ball_position_too_far',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d32',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17324f7db3a39cf853bba',
+    'tags': [],
+    'label': 'bad_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17326f7db3a39cf853bc2',
+    'tags': [],
+    'label': 'bad_chin_position',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d28',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733ef7db3a39cf853e18',
+    'tags': [],
+    'label': 'bad_chipping_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17343f7db3a39cf853e9c',
+    'tags': [],
+    'label': 'good_body_posture_and_ball_distance',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733af7db3a39cf853d14',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d4e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17336f7db3a39cf853cb0',
+    'tags': [],
+    'label': 'good_putting',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d84',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d38',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733cf7db3a39cf853d7e',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d4c',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dbc',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733df7db3a39cf853dc4',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f1733bf7db3a39cf853d60',
+    'tags': [],
+    'label': 'bad_iron_swings',
+    'confidence': None,
+    'logits': None,
+}>: 1, <Classification: {
+    'id': '67f17337f7db3a39cf853cc0',
+    'tags': [],
+    'label': 'bad_straight_body',
+    'confidence': None,
+    'logits': None,
+}>: 1}
+
+Video durations (seconds):
+(0.06666666666666667, 8.833333333333334)
+
+FPS distribution:
+(30.0, 30.0)
+App launched. Point your web browser to http://localhost:5151
+   0% ||------|   0/389 [12.7ms elapsed, ? remaining, ? samples/s]                                                                       1% |/------|   3/389 [144.3ms elapsed, 18.6s remaining, 20.8 samples/s]                                                                               1% |-------|   4/389 [331.1ms elapsed, 31.9s remaining, 12.1 samples/s]                                                                               1% |\------|   5/389 [460.2ms elapsed, 35.3s remaining, 10.9 samples/s]                                                                               2% ||------|   7/389 [588.7ms elapsed, 32.1s remaining, 11.9 samples/s]                                                                               2% |/------|   9/389 [724.9ms elapsed, 30.6s remaining, 12.4 samples/s]                                                                               4% |-------|  17/389 [847.0ms elapsed, 18.5s remaining, 20.1 samples/s]                                                                               6% |\------|  22/389 [971.8ms elapsed, 16.2s remaining, 22.6 samples/s]                                                                               6% ||------|  24/389 [1.2s elapsed, 17.6s remaining, 20.8 samples/s]                                                                                  8% |/------|  31/389 [1.3s elapsed, 14.6s remaining, 24.4 samples/s]                                                                                  9% |-------|  35/389 [1.4s elapsed, 13.8s remaining, 26.1 samples/s]                                                                                 10% |\------|  40/389 [1.5s elapsed, 12.8s remaining, 31.2 samples/s]                                                                                 14% ||------|  53/389 [1.6s elapsed, 9.8s remaining, 42.5 samples/s]                                                                                  15% |█/-----|  57/389 [1.7s elapsed, 9.7s remaining, 43.9 samples/s]                                                                                  16% |█------|  62/389 [1.8s elapsed, 9.3s remaining, 47.2 samples/s]                                                                                  18% |█\-----|  71/389 [2.0s elapsed, 8.4s remaining, 48.5 samples/s]                                                                                  21% |█|-----|  83/389 [2.1s elapsed, 7.2s remaining, 55.5 samples/s]                                                                                  27% |█/-----| 104/389 [2.2s elapsed, 5.3s remaining, 78.4 samples/s]                                                                                  30% |██-----| 116/389 [2.3s elapsed, 4.7s remaining, 84.0 samples/s]                                                                                  33% |██\----| 127/389 [2.4s elapsed, 4.3s remaining, 90.3 samples/s]                                                                                  34% |██|----| 133/389 [2.5s elapsed, 4.2s remaining, 89.3 samples/s]                                                                                  35% |██/----| 136/389 [2.6s elapsed, 4.3s remaining, 79.4 samples/s]                                                                                  37% |██-----| 143/389 [2.7s elapsed, 4.0s remaining, 85.1 samples/s]                                                                                  41% |██\----| 158/389 [2.8s elapsed, 3.4s remaining, 96.7 samples/s]                                                                                  42% |██|----| 164/389 [3.0s elapsed, 3.4s remaining, 92.0 samples/s]                                                                                  43% |███/---| 169/389 [3.1s elapsed, 3.4s remaining, 85.8 samples/s]                                                                                  45% |███----| 174/389 [3.2s elapsed, 3.6s remaining, 68.4 samples/s]                                                                                  47% |███\---| 182/389 [3.3s elapsed, 3.5s remaining, 64.3 samples/s]                                                                                  49% |███|---| 191/389 [3.4s elapsed, 3.4s remaining, 62.6 samples/s]                                                                                  51% |███/---| 198/389 [3.5s elapsed, 3.2s remaining, 65.0 samples/s]                                                                                  53% |███----| 205/389 [3.6s elapsed, 2.9s remaining, 69.2 samples/s]                                                                                  55% |███\---| 213/389 [3.7s elapsed, 2.8s remaining, 69.4 samples/s]                                                                                  57% |███|---| 220/389 [3.9s elapsed, 2.9s remaining, 61.1 samples/s]                                                                                  59% |████/--| 228/389 [4.0s elapsed, 2.6s remaining, 64.4 samples/s]                                                                                  60% |████---| 235/389 [4.1s elapsed, 2.5s remaining, 65.9 samples/s]                                                                                  62% |████\--| 241/389 [4.2s elapsed, 2.3s remaining, 68.5 samples/s]                                                                                  64% |████|--| 250/389 [4.3s elapsed, 2.1s remaining, 70.0 samples/s]                                                                                  66% |████/--| 258/389 [4.4s elapsed, 2.0s remaining, 69.3 samples/s]                                                                                  67% |████---| 261/389 [4.7s elapsed, 2.3s remaining, 54.8 samples/s]                                                                                  69% |████\--| 269/389 [4.8s elapsed, 2.2s remaining, 55.6 samples/s]                                                                                  71% |████|--| 277/389 [4.9s elapsed, 2.0s remaining, 55.5 samples/s]                                                                                  72% |█████/-| 281/389 [5.1s elapsed, 2.1s remaining, 49.5 samples/s]                                                                                  73% |█████--| 284/389 [5.2s elapsed, 2.2s remaining, 45.3 samples/s]                                                                                  74% |█████\-| 288/389 [5.4s elapsed, 2.4s remaining, 39.8 samples/s]                                                                                  76% |█████|-| 295/389 [5.7s elapsed, 2.4s remaining, 36.6 samples/s]                                                                                  79% |█████/-| 306/389 [5.8s elapsed, 2.1s remaining, 36.7 samples/s]                                                                                  81% |█████--| 315/389 [5.9s elapsed, 1.9s remaining, 37.3 samples/s]                                                                                  84% |█████\-| 328/389 [6.0s elapsed, 1.2s remaining, 50.0 samples/s]                                                                                  87% |██████|| 337/389 [6.1s elapsed, 1.0s remaining, 50.6 samples/s]                                                                                  89% |██████/| 346/389 [6.2s elapsed, 821.6ms remaining, 52.0 samples/s]                                                                               90% |██████-| 349/389 [6.4s elapsed, 747.2ms remaining, 53.4 samples/s]                                                                               92% |██████\| 357/389 [6.5s elapsed, 557.8ms remaining, 57.6 samples/s]                                                                               94% |██████|| 365/389 [6.6s elapsed, 367.7ms remaining, 66.0 samples/s]                                                                               96% |██████/| 375/389 [6.7s elapsed, 190.0ms remaining, 74.6 samples/s]                                                                               98% |██████-| 380/389 [6.8s elapsed, 125.6ms remaining, 72.1 samples/s]                                                                               99% |██████\| 386/389 [6.9s elapsed, 43.7ms remaining, 68.7 samples/s]                                                                               100% |██████|| 388/389 [7.0s elapsed, 17.1ms remaining, 58.4 samples/s]                                                                               100% |███████| 389/389 [7.1s elapsed, 0s remaining, 55.4 samples/s]       
+Press Enter to continue...
