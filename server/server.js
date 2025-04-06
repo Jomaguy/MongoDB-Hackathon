@@ -9,18 +9,21 @@ import ConnectionDB from './db.js';
 //SET DB CONNECTION
 ConnectionDB();
 //SET CORS POLICIES
-const corsOptions = { origin: ['http://localhost:5173'] };
-app.use(cors(corsOptions));
+const corsOptions = {
+    origin: process.env.ALLOWED_ORIGINS?.split(',') || ['http://localhost:5173', 'http://localhost:3000'],
+    methods: ['GET', 'POST', 'PUT', 'DELETE'], // Specify allowed HTTP methods
+  };
+  app.use(cors(corsOptions));
 //MIDDLEWARE TO PARSE JSON TO OBJECT
 app.use(express.json());
 
 app.get('/api', (req, res) => {
-  return res.status(200).json(res.locals);
-});
-
-app.post('/api', (req, res) => {
-  return res.status(201).json(res.locals);
-});
+    return res.status(200).json({ message: 'GET request successful' });
+  });
+  
+  app.post('/api', (req, res) => {
+    return res.status(201).json({ message: 'POST request successful' });
+  });
 
 //404 Not found handler
 app.use('*', (req, res) => {
@@ -30,8 +33,8 @@ app.use('*', (req, res) => {
 //Error Handler
 app.use((err, req, res, next) => {
   console.log('error', err);
-  const statusCode = err.status; 
-  const message = err.message.err;
+  const statusCode = err.status|| 500;; 
+  const message = err.message || 'Internal Server Error';
   return res.status(statusCode).send({ message: message });
 });
 
